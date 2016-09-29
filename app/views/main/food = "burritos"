@@ -1,0 +1,6 @@
+food = "burritos"
+if food  == "burritos"
+
+print("ummmm, my favorite")
+print("i feel like saying it 100 times")
+print(100 * (food + "!"))
